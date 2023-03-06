@@ -1,3 +1,2 @@
-const username = document.getElementById("username")
-const btn1 = document.getElementById("btn1")
-const 
+const username = document.getElementById('username');
+const btn1 = document.getElementById('btn1');

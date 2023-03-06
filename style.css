@@ -12,8 +12,9 @@ header {
 
 h1 {
   text-align: center;
-  padding: 20px 0;
+  padding: 40px 0;
   text-transform: uppercase;
+  margin-bottom: 40px;
 }
 
 #form {
@@ -25,5 +26,5 @@ h1 {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 10px;
+  gap: 15px;
 }

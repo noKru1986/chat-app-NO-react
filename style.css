@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+  width: 100%;
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px 0;
+  text-transform: uppercase;
+}
+
+#form {
+  width: 40%;
+  height: 50vh;
+  background-color: aliceblue;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
